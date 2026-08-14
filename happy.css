@@ -1,0 +1,14 @@
+body {
+  background-color: rgb(0, 104, 139);
+    background-image: url('https://i.pinimg.com/1200x/80/39/27/803927c9f63fe6d5ab77ce906b587e23.jpg')
+}
+
+h1 {
+  color: white;
+  text-align: center;
+}
+
+p {
+  font-family: verdana;
+  font-size: 20px;
+}
